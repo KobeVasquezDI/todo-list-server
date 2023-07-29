@@ -1,0 +1,24 @@
+{
+  "name": "todo-list-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KobetheHierophant/todo-list-server.git"
+  },
+  "author": "Kobe Vasquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KobetheHierophant/todo-list-server/issues"
+  },
+  "homepage": "https://github.com/KobetheHierophant/todo-list-server#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
